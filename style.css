@@ -1,5 +1,5 @@
 body{
-    background-image: url(isa.1.jpg);
+    background-image: url(img/isa.1.png);
     background-position: center;
     background-size: cover;
     height: 60vh;
@@ -71,7 +71,7 @@ nav ul li a:hover{
 }
 
 .content{
-    background-image: url(ok.jpg);
+    background-image: url(img/ok.png);
     background-position: center;
     background-size: cover;
 
